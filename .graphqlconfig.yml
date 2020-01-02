@@ -1,0 +1,18 @@
+projects:
+  Tfwm:
+    schemaPath: src/graphql/schema.json
+    includes:
+      - graphql/**/*/js
+    excludes:
+      - ./amplify/**
+    extensions:
+      amplify:
+        codeGenTarget: javascript
+        generatedFileName: ''
+        docsFilePath: src/graphql
+        region: eu-west-2
+        apiId: fuifr6zz4jhfdd44ooxi47yyda
+        maxDepth: 2
+extensions:
+  amplify:
+    version: 3

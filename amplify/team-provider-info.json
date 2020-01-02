@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-wazeapi-dev-165153-authRole",
+            "UnauthRoleArn": "arn:aws:iam::925473193003:role/amplify-wazeapi-dev-165153-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::925473193003:role/amplify-wazeapi-dev-165153-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-wazeapi-dev-165153-deployment",
+            "UnauthRoleName": "amplify-wazeapi-dev-165153-unauthRole",
+            "StackName": "amplify-wazeapi-dev-165153",
+            "StackId": "arn:aws:cloudformation:eu-west-2:925473193003:stack/amplify-wazeapi-dev-165153/3087a040-2d80-11ea-b105-0a967d6d9d80",
+            "AmplifyAppId": "d27giit2mijfj6"
+        }
+    }
+}
